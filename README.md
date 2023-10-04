@@ -1,4 +1,4 @@
-#<center>Hi there. I'm Dmitry</center> 
+# Hi there. I'm Dmitry
 
 **About me**
 - 🎓 Study at Lobachevsky State University of Nizhny Novgorod (Software Engineering)
