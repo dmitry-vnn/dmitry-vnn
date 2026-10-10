@@ -5,7 +5,7 @@
 - ⚙️ Building high-load distributed systems
 - 🧩 Applying Domain-Driven Design to model complex business domains
 
-**Tech stack**
+**Stack**
 - **Languages:** Java, Kotlin, Python, SQL
 - **Frameworks:** Spring Boot, Hibernate
 - **Data & Messaging:** PostgreSQL, S3, Apache Kafka, message brokers, Qdrant
