@@ -1,10 +1,16 @@
-# Hi there. I'm Dmitry
+# Hi there, I'm Dmitry 👋
 
 **About me**
-- 🎓 Study at Lobachevsky State University of Nizhny Novgorod (Software Engineering)
-- 💻 Technologies: 
-  - Languages: Java, Kotlin, C/C++, SQL
-  - Tools & Frameworks: Spring Boot, Git, Docker, REST
+- 💼 Software Engineer at [Sberbank](https://www.sberbank.ru/ru/person)
+- ⚙️ Building high-load distributed systems
+- 🧩 Applying Domain-Driven Design to model complex business domains
+
+**Tech stack**
+- **Languages:** Java, Kotlin, Python, SQL
+- **Frameworks:** Spring Boot, Hibernate
+- **Data & Messaging:** PostgreSQL, S3, Apache Kafka, message brokers
+- **Infrastructure:** Docker, Kubernetes, OpenShift
+- **AI:** Claude Code, SDD
 
 **Contacts**
-- Telegram: [@xtopz](http://t.me/xtopz)
+- Telegram: [@xtopz](https://t.me/xtopz)
