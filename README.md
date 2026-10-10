@@ -8,9 +8,10 @@
 **Tech stack**
 - **Languages:** Java, Kotlin, Python, SQL
 - **Frameworks:** Spring Boot, Hibernate
-- **Data & Messaging:** PostgreSQL, S3, Apache Kafka, message brokers
+- **Data & Messaging:** PostgreSQL, S3, Apache Kafka, message brokers, Qdrant
+- **CI/CD:** GitHub Actions, Jenkins, ArgoCD
 - **Infrastructure:** Docker, Kubernetes, OpenShift
-- **AI:** Claude Code, SDD
+- **AI:** Claude Code, SDD, Embedding
 
 **Contacts**
 - Telegram: [@xtopz](https://t.me/xtopz)
